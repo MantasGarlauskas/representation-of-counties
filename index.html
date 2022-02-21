@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+    <title>Representation of countries</title>
+</head>
+
+<body>
+    <section class="header">
+        <div class="logo">restcountries.<span>COM</span>
+        </div>
+    </section>
+    <section class="main_page">
+        <div class="filter__container">
+            <div><span>SORT BY</span>
+                <select name="" id="sortByName" class="filter">
+                    <option value="name">Name A to Z</option>
+                    <option value="name2">Name Z to A</option>
+                </select>
+            </div>
+            <div><span>FILTER</span>
+                <select name="" id="sortByType" class="filter">
+                    <option value="defaulr">Choose filter</option>
+                    <option value="area">Smaller than Lithuania by area</option>
+                    <option value="oceania">“Oceania” region</option>
+                    <option value="all">All countries</option>
+                </select>
+            </div>
+        </div>
+        <div class="countries__container">
+        </div>
+    </section>
+</body>
+
+</html>
