@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ### The challenge
 
-- Using https://restcountries.com free API make a visualized representation of counties that displays country name, region, and area size;
+- Using https://restcountries.com free API make a visualized representation of counrties that displays country name, region, and area size
 - Display a list for the data
 - Make the list sortable alphabetically by name (ascending, descending)
 - Implement a filter(s) that filters countries:
