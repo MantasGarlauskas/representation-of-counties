@@ -24,7 +24,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://mantasgarlauskas.github.io/representation-of-counties/)
 
 ## My process
 
